@@ -7,3 +7,6 @@ Apktool (apk-decompiler is based on Apktool and uses it for decompiling): https:
 
 # Note
 This decompiled source code was NOT looked at and is not confirmed to be the full code of Arceus X, I have 0 knowledge of android development and am not interested in attempting to confirm this to be the entire code.
+<br>
+<br>
+Also once again github isn't letting me upload the full sized source, so zip files we go again!
